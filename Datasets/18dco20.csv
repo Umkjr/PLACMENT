@@ -1,0 +1,26 @@
+ID,Name,cutoff,input,require,domain,found,date,status
+10203,samsung,6.5,7.14,average,"Software Testing",not-match,2021-05-21,no
+10203,samsung,8,7.14,average,"System Analyst",not-match,2021-05-28,no
+21212,facebook,9,7.14,average,"Data Scientist",not-match,2021-06-30,no
+30369,apple,6.5,7.14,less,"iOS Development",match,2021-05-25,yes
+30369,apple,8.9,7.14,high,"iOS Development",match,2021-06-18,no
+30369,apple,7,7.14,less,"iOS Development",match,2021-07-21,yes
+50007,HCL,6.5,7.14,average,"IT architect",not-match,2021-05-28,no
+50007,HCL,7.5,7.14,average,"Mobile Application Development",not-match,2021-05-28,no
+50007,HCL,6.5,7.14,average,"Software Testing",not-match,2021-05-28,no
+50070,unisoft,6.5,7.14,less,"Software Development",match,2021-04-30,yes
+55577,microsoft,5,7.14,average,"UI designer",not-match,2021-06-23,no
+55775,"Reliance Jio",7,7.14,average,"Mobile Application Development",not-match,2021-05-31,no
+55777,"tech mahindra",6.5,7.14,less,"Software Development",match,2021-04-30,yes
+55777,"tech mahindra",6.9,7.14,average,"System Administration",not-match,2021-05-22,no
+57775,bitwise,6.5,7.14,average,"Computer Hardware Engineer",not-match,2021-05-09,no
+70005,intel,8,7.14,average,"IT architect",not-match,2021-06-29,no
+75557,wipro,6,7.14,average,"Network Administration",not-match,2021-05-15,no
+75757,TCS,7,7.14,average,"Network Administration",not-match,2021-06-11,no
+77555,L&T,9,7.14,average,"AI and ML",not-match,2021-05-27,no
+77555,L&T,7,7.14,average,"Cyber Security",not-match,2021-07-21,no
+77557,"Cap gemini",9.5,7.14,average,"Software Testing",not-match,2021-05-07,no
+77557,"Cap gemini",7.5,7.14,average,"UI designer",not-match,2021-05-29,no
+77755,google,7.5,7.14,average,"AI and ML",not-match,2021-07-21,no
+77755,google,8.5,7.14,average,"AI and ML",not-match,2021-07-22,no
+90005,oracle,7,7.14,less,"Ethical Hacking",match,2021-06-29,yes

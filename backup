@@ -1,0 +1,1 @@
+SELECT cl.cname,cp.cutoff, cp.domain,cp.year from companylist cl join companyplaced cp where cl.cid = cp.cid AND cp.year >'$date' AND cp.cutoff <= $be AND cp.domain = '$domain'";

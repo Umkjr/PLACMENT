@@ -1,0 +1,48 @@
+form
+{
+  text-align:center;
+}
+  img.logo{
+    height:200px;
+    border-radius:2%;
+    margin-top:0px;
+    margin-bottom:0px;
+    background:white;
+  }
+  
+  .input-container{
+    display:flex;
+    width:100%;
+    margin-bottom:15px;
+    align:center;
+  }
+  
+  .icon{
+    padding:10px;
+    background:#1d75bd;
+    color:#fff;
+    min-width:50px;
+    text-align:center;
+  }
+  
+  .input-field{
+    width:100%;
+    padding:10px;
+    outline:none;
+    font-size:15px;
+  }
+  button.new{
+    width:100%;
+    color:white;
+    padding:10px;
+    outline:none;
+    font-size:15px;
+    background:#1d75bd;
+    font-family:Arial, Helvetica, sans-serif;;
+  }
+
+  h3.big{
+      font-size: 30px;
+      color:#1d75bd;
+      
+  }

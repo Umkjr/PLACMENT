@@ -1,0 +1,22 @@
+ID,Name,cutoff,input,require,domain,found,date,status
+10203,samsung,6.5,7.93,average,"Software Testing",not-match,2021-05-21,no
+10203,samsung,8,7.93,average,"System Analyst",not-match,2021-05-28,no
+10203,samsung,6.5,7.93,average,"Web Development",not-match,2021-04-30,no
+21212,facebook,9,7.93,average,"Data Scientist",not-match,2021-06-30,no
+30369,apple,8.9,7.93,average,"iOS Development",not-match,2021-06-18,no
+30369,apple,7,7.93,average,"iOS Development",not-match,2021-07-21,no
+50007,HCL,6.5,7.93,average,"IT architect",not-match,2021-05-28,no
+50007,HCL,6.5,7.93,average,"Software Testing",not-match,2021-05-28,no
+50070,unisoft,6.5,7.93,less,"Software Development",match,2021-04-30,yes
+55775,"Reliance Jio",7,7.93,average,"Mobile Application Development",not-match,2021-05-31,no
+55777,"tech mahindra",6.5,7.93,less,"Software Development",match,2021-04-30,yes
+55777,"tech mahindra",6.9,7.93,average,"System Administration",not-match,2021-05-22,no
+75557,wipro,6,7.93,average,"Network Administration",not-match,2021-05-15,no
+75757,TCS,7,7.93,average,"Network Administration",not-match,2021-06-11,no
+77555,L&T,9,7.93,average,"AI and ML",not-match,2021-05-27,no
+77555,L&T,7,7.93,average,"Cyber Security",not-match,2021-07-21,no
+77557,"Cap gemini",9.5,7.93,average,"Software Testing",not-match,2021-05-07,no
+77557,"Cap gemini",7.5,7.93,average,"UI designer",not-match,2021-05-29,no
+77755,google,7.5,7.93,average,"AI and ML",not-match,2021-07-21,no
+77755,google,8.5,7.93,average,"AI and ML",not-match,2021-07-22,no
+90005,oracle,7,7.93,average,"Ethical Hacking",not-match,2021-06-29,no
